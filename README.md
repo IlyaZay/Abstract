@@ -1,0 +1,2 @@
+# Abstract
+ADTs for fun
